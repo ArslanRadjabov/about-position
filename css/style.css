@@ -27,6 +27,12 @@ body {
 }
 .numbers-plus{
   margin-top: 20px;
+  font-weight: bold;
+  margin-left: 22px;
+  margin-bottom: 8px;
+}
+.text---p{
+  margin-left: 22px;
 }
 .text-of{
   width: 309px;
