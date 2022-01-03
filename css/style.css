@@ -12,4 +12,32 @@ body {
   display: flex;
   flex-direction: column;
 }
+.left-side-apsolute{
+  width: 239px;
+  background-color: rgb(255, 252, 252);
+  height: 252px;
+  position:absolute;
+  left: 9%;
+  border: 1px solid #000;
+}
+.section-benom{
+  display: flex;
+  gap: 165px;
+  margin: 50px auto;
+}
+.numbers-plus{
+  margin-top: 20px;
+}
+.text-of{
+  width: 309px;
+}
+.left-side{
+  display: flex;
+}
+.title-of{
+  width: 269px;
+}
+.hr-line{
+  width: 41px;
+}
 
